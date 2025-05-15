@@ -6,6 +6,7 @@ rpi_ipa_controller_sources = files([
     'device_status.cpp',
     'histogram.cpp',
     'rpi/af.cpp',
+    'rpi/newaf.cpp',
     'rpi/agc.cpp',
     'rpi/agc_channel.cpp',
     'rpi/alsc.cpp',
